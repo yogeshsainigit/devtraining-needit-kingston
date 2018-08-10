@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Needit" max_length="40" name="x_58872_needit_needit" sizeclass="12" type="collection">
+    <element audit="true" extends="task" label="Needit" max_length="40" name="x_58872_needit_needit" sizeclass="36" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" default="legal" label="Request Type" mandatory="true" max_length="40" name="u_choice_3" type="string">
             <choice>
                 <element label="Human Resorce" sequence="0" value="hr"/>
